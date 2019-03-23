@@ -1,4 +1,4 @@
-# Projet d'Analyse Numerique
+# [FR] Numerical Analysis Project - Solve regression problems with Python
 <p> L'objectif de ce projet est de déterminer numériquement la forme d'une chainette, suspendue par ses deux extrémités, et soumise à son poids en appliquant les différentes méthodes d'optimisation. </p>
 <h2> À propos </h2>
 </br> Ce projet a été réalisé dans le cadre de la formation des ingénieurs à l'Ecole Polytechnique de Tunisie sous le module "Analyse Numérique" enseigné en première année.
